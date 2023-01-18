@@ -1,13 +1,11 @@
 import React from 'react';
 import './App.css';
-import Onglet from './Components/Onglet';
+import Navbar from './Components/Navbar';
 
 export default function App() {
   return (
     <div>
-        
-        <Onglet />
-
+        <Navbar />
     </div>
   )
 }
