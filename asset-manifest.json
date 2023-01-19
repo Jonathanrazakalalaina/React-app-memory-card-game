@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.12660ea8.css",
-    "main.js": "/static/js/main.e81d246c.js",
-    "index.html": "/index.html",
-    "main.12660ea8.css.map": "/static/css/main.12660ea8.css.map",
-    "main.e81d246c.js.map": "/static/js/main.e81d246c.js.map"
+    "main.css": "/React-app-memory-card-game/static/css/main.db744207.css",
+    "main.js": "/React-app-memory-card-game/static/js/main.2687c083.js",
+    "index.html": "/React-app-memory-card-game/index.html",
+    "main.db744207.css.map": "/React-app-memory-card-game/static/css/main.db744207.css.map",
+    "main.2687c083.js.map": "/React-app-memory-card-game/static/js/main.2687c083.js.map"
   },
   "entrypoints": [
-    "static/css/main.12660ea8.css",
-    "static/js/main.e81d246c.js"
+    "static/css/main.db744207.css",
+    "static/js/main.2687c083.js"
   ]
 }
